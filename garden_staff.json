@@ -1,0 +1,10 @@
+[{"name":"Elwira","email":"erate0@guardian.co.uk","phone":"172-642-0143","garden_stuff":[{"vegetables":"potato",
+  "price": 20.50}, {"fruits": "apples", "price":  30.0}]},
+{"name":"Charles","email":"cbrokenshaw1@360.cn","phone":"260-105-7177","garden_stuff":[{"vegetables":"tomato",
+  "price": 70.50}, {"fruits": "banana", "price":  28.0}]},
+{"name":"Rayner","email":"rfaraker2@twitter.com","phone":"873-336-7674","garden_stuff":[{"vegetables":"cucumbers",
+  "price": 40.50}, {"fruits": "pears", "price":  70.0}]},
+{"name":"Essie","email":"ebennen3@ft.com","phone":"584-380-2415","garden_stuff": [{"vegetables":"potato",
+  "price": 20.50}, {"fruits": "pears", "price":  78.0}]},
+{"name":"Ulla","email":"upywell4@sphinn.com","phone":"727-130-2502","garden_stuff":[{"vegetables":"tomato",
+  "price": 70.50}, {"fruits": "plums", "price":  56.0}]}]
